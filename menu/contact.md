@@ -17,4 +17,6 @@ You can also find me on:
 
 ***
 
-I tend to drink tremendous quantities of caffeine daily. You know have the [possibility to contribute to that](https://www.buymeacoffee.com/QpUyLRq); in exchange, you can listen to some [high-quality manually curated country music](https://www.youtube.com/playlist?list=PLLE9RuBz-3JnLIr9AAq6r25NnVSnhFqe7) 
+I tend to drink tremendous quantities of caffeine daily.
+
+You now have the [possibility to contribute to that](https://www.buymeacoffee.com/QpUyLRq); in exchange, you can listen to some [high-quality manually curated country music](https://www.youtube.com/playlist?list=PLLE9RuBz-3JnLIr9AAq6r25NnVSnhFqe7) 
