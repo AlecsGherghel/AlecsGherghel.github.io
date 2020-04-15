@@ -15,3 +15,6 @@ I've been working as a software engineer for the past 6-7 years and, in one way 
 * <a href="https://bridgerockdata.com/">Bridgerock Data</a>
 * <a href="http://digicare.no/">DigiCare</a>
 * <a href="http://shoptrade.co/">ShopTrade</a>
+* <a href="https://code4.ro/en/">Code4Romania</a>
+
+I'm currently working at <a href="https://www.ascentcore.com/">AscentCore</a>, a Cluj-based outsourcing company and also consulting on a daily basis for other 2 companies. Focused only on python based technologies for the moment and entire web application life cycle I have a lot of adversity when it comes to most front end technologies.
