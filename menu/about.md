@@ -18,7 +18,11 @@ I've been working as a software engineer for the past 6-7 years and, in one way 
 * <a href="https://code4.ro/en/">Code4Romania</a>
 
 I'm currently working at <a href="https://www.ascentcore.com/">AscentCore</a> a Cluj-based outsourcing company while also consulting on a daily basis for 2 other companies.
+
 Focused only on <a href="https://www.python.org/">python</a> based technologies (with a special emphasis on <a href="https://www.djangoproject.com/">Django</a>) alongside entire web application life cycle I have a lot of adversity when it comes to most front end technologies.
 
+***
+
 If you think there might be a mutually beneficial endeavor of which I should know more about, there's a contact page which can be used to get my attention.
+
 Occasionally I offer my services free of charge for non profit causes with which I can relate; before reaching out to me in regards with such projects might worth considering whether or not they are aligned with my social and/or political views, which are (by some) considered (at least) conservative.
