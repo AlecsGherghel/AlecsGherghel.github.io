@@ -25,4 +25,4 @@ Focused only on <a href="https://www.python.org/">python</a> based technologies 
 
 If you think there might be a mutually beneficial endeavor of which I should know more about, there's a contact page which can be used to get my attention.
 
-Occasionally I offer my services free of charge for non profit causes with which I can relate; before reaching out to me in regards with such projects might worth considering whether or not they are aligned with my social and/or political views, which are (by some) considered (at least) conservative.
+Occasionally I offer my services free of charge for non profit causes with which I can relate; before reaching out to me about projects it might be worth considering whether or not they are aligned with my social and/or political views, which are considered by some to be quite conservative.
