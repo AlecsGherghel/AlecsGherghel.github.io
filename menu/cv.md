@@ -3,7 +3,7 @@ layout: page
 title: Resume
 ---
 
-## Work experience
+
 ### March 2014 - Feb. 2016
 **Python Developer**, _Spyhce_, Cluj-Napoca, Romania  
 Developing a platform for training purposes; Developing social media data agregator which consumes public APIs; Maintanance for festivals and events web applications  
